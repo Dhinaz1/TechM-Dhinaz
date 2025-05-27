@@ -1,2 +1,2 @@
 # TechM-Dhinaz
-DevOps Operations
+DevOps Practicals
